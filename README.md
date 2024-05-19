@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vaniw555@gmail.com**
 
-- ⚡ Fun fact ** Anime Lover : whether it's revisiting old favorites or discovering new series, anime is a timeless source of entertainment for me.**
+- ⚡ Fun fact ** Anime Fan : whether it's revisiting old favorites or discovering new series, anime is a timeless source of entertainment for me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
