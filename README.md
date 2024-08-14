@@ -5,7 +5,7 @@
 <img src="https://via.placeholder.com/150.png?text=Vani+Walvekar" align="right" width="150px"/>
 
 ### 🌟 About Me
-I'm an experienced **Software Engineer** with a strong background at **IBM** and currently pursuing a **Master's in Computer Science** at **Saint Louis University**. I thrive on building efficient and impactful software solutions, with a keen interest in **AWS**, **front-end development**, and **IoT**.
+I'm an experienced **Software Engineer** with a background at **IBM** and currently pursuing a **Master's in Computer Science** at **Saint Louis University**. My expertise lies in **AWS**, **front-end development**, **IoT**, and creating impactful software solutions.
 
 ### 🛠️ Skills & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,11 +20,6 @@ I'm an experienced **Software Engineer** with a strong background at **IBM** and
 - **Automating Exoplanet Detection: A Machine Learning Approach**
   - 💻 Developed a Flask-based web application in Python for exoplanet detection.
   - 🧠 Implemented and optimized a machine learning model to enhance prediction accuracy.
-
-### 🏆 Awards and Honors
-- 🥇 **Global Grad Scholarship** (2024) - Saint Louis University
-- 🥈 **Manager's Choice Award** (2021) - IBM
-- 🎓 **Full Undergraduate Scholarship** (2014) - Karnataka's DTE
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-walvekar-874938128) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vani.walvekar@slu.edu)
