@@ -3,7 +3,7 @@
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile&bg=9c88ff&fg=ffffff)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400px"/>
+  <img src="https://media.giphy.com/media/26n6Ww5v5Xqbg9dD2/giphy.gif" width="400px"/>
 </div>
 
 ### 🌟 About Me
