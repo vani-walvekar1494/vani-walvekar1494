@@ -14,7 +14,7 @@ I'm an experienced **Software Engineer** with a background at **IBM** and curren
 - **Frameworks**: ![React](https://img.shields.io/badge/React-9c88ff?style=for-the-badge&logo=react&logoColor=ffffff) ![Flask](https://img.shields.io/badge/Flask-9c88ff?style=for-the-badge&logo=flask&logoColor=ffffff) ![Node.js](https://img.shields.io/badge/Node.js-9c88ff?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 - **Tools**: ![AWS](https://img.shields.io/badge/Amazon_AWS-9c88ff?style=for-the-badge&logo=amazon-aws&logoColor=ffffff) ![Docker](https://img.shields.io/badge/Docker-9c88ff?style=for-the-badge&logo=docker&logoColor=ffffff) ![Git](https://img.shields.io/badge/Git-9c88ff?style=for-the-badge&logo=git&logoColor=ffffff)
 
-### 🚀 Projects
+### 🚀 Recent Projects
 - **ESP32 LoRa Application Development**
   - 🌐 Installed and configured MicroPython firmware on ESP32 LoRa devices.
   - 🛠️ Managed package installations and implemented data transmission and display features.
