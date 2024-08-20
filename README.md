@@ -29,3 +29,5 @@ I'm an experienced **Software Engineer** with a background at **IBM** and curren
 ### 🌱 Fun Facts
 - 🥗 I’m a vegan and love experimenting with plant-based recipes.
 - 🏡 I enjoy simple living and believe in minimalism.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=9c88ff&style=flat-square)
