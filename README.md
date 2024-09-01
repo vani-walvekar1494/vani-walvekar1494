@@ -1,6 +1,5 @@
 ### <span style="color:#9c88ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi There!</span>
 
-It's me, <span style="color:#9c88ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Vani</span>!
+It's me, <span style="color:#9c88ff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Vani</span>! 😊 Here’s a cute teddy bear to brighten your day:
 
-![Teddy Bear](https://media.giphy.com/media/26n6Ww5v5Xqbg9dD2/giphy.gif)
-
+![Cute Teddy Bear](https://media.giphy.com/media/3oFzmi2Sv5Mo7gUkU8/giphy.gif)
