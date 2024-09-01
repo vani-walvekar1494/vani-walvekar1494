@@ -132,7 +132,7 @@
 <h2 align="center">Recent Blog Posts</h2>
 
 <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
-  <h3 style="font-family: Arial, sans-serif; color: #333;">Recent Blog Posts</h3>
+  
   <!-- BLOG-POST-LIST:START -->
   <ul style="list-style-type: none; padding: 0;">
     <li style="margin-bottom: 10px;">
