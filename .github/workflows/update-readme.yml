@@ -26,6 +26,10 @@ jobs:
       - name: Run script
         run: python update_readme.py
 
+      - name: Check git status
+        run: |
+          git status
+
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
@@ -33,3 +37,6 @@ jobs:
           git add README.md
           git commit -m 'Update README with latest Medium posts' || echo "No changes to commit"
           git push
+
+      - name: Verify latest commits
+        run: git log -n 5
