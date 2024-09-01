@@ -129,10 +129,16 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Ever found yourself curious about how your favorite programming languages function behind the…](https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2)
-<!-- BLOG-POST-LIST:END -->  
+<h2 align="center">Recent Blog Posts</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <a href="https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2" target="_blank">
+      <h3 style="margin-top: 0;">Ever found yourself curious about how your favorite programming languages function behind the scenes?</h3>
+    </a>
+    <p>Curious about how programming languages work behind the scenes? Dive into the intricacies of their functioning and gain a deeper understanding of their operation.</p>
+  </div>
+  <!-- Add more blog post cards here -->
+</div>
 
 <br/>  
 
