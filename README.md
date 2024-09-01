@@ -130,15 +130,22 @@
 
 
 <h2 align="center">Recent Blog Posts</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; width: 250px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <a href="https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2" target="_blank">
-      <h3 style="margin-top: 0;">Ever found yourself curious about how your favorite programming languages function behind the scenes?</h3>
-    </a>
-    <p>Curious about how programming languages work behind the scenes? Dive into the intricacies of their functioning and gain a deeper understanding of their operation.</p>
-  </div>
-  <!-- Add more blog post cards here -->
+
+<div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
+  <h3 style="font-family: Arial, sans-serif; color: #333;">Recent Blog Posts</h3>
+  <!-- BLOG-POST-LIST:START -->
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 10px;">
+      <a href="https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2" 
+         style="text-decoration: none; color: #1E77B5; font-family: Arial, sans-serif; font-size: 16px;">
+         Curious about how programming languages work behind the scenes? Dive into the intricacies of their functioning and gain a deeper understanding of their operation.
+      </a>
+    </li>
+    <!-- Add more posts here -->
+  </ul>
+  <!-- BLOG-POST-LIST:END -->
 </div>
+
 
 <br/>  
 
