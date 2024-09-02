@@ -134,16 +134,8 @@
 <div style="border: 2px solid #ddd; border-radius: 8px; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
   
   <!-- BLOG-POST-LIST:START -->
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 10px;">
-      <a href="https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2" 
-         style="text-decoration: none; color: #1E77B5; font-family: Arial, sans-serif; font-size: 16px;">
-         Curious about how programming languages work behind the scenes? Dive into the intricacies of their functioning and gain a deeper understanding of their operation.
-      </a>
-    </li>
-    <!-- Add more posts here -->
-  </ul>
-  <!-- BLOG-POST-LIST:END -->
+- [Ever found yourself curious about how your favorite programming languages function behind the…](https://medium.com/@vaniwalvekar/ever-found-yourself-curious-about-how-your-favorite-programming-languages-function-behind-the-5f39f68a825f?source=rss-888706977db------2)
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 
