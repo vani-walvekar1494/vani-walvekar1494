@@ -12,7 +12,7 @@
 </div>
 
 <div align="right" style="display: inline-block; width: 35%;">
-  <a href="https://vocal-swan-3fa41a.netlify.app/" target="_blank">
+  <a href="https://vaniwalvekar.com/" target="_blank">
     <img src="./images/earth.png" alt="Personal Website" width="50"/>
   </a>
   <p>Personal Website</p>
